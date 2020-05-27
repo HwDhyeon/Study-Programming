@@ -8,8 +8,8 @@ int main()
 
 /* 
 
-http://codeup.kr/JudgeOnline/problem.php?id=1001
+https://codeup.kr/problem.php/?id=1001
 
-1001 : [기초-출력] 출력하기01
+1001 : [기초-출력] 출력하기01(설명)
 
 */
